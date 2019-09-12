@@ -814,7 +814,7 @@
     },
     "vmSizeMasterNodes": {
       "type": "string",
-      "defaultValue": "Standard_A2,
+      "defaultValue": "Standard_A2",
       "allowedValues": [
         "Standard_A0",
         "Standard_A1",
